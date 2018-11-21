@@ -1,0 +1,96 @@
+
+  header,footer
+  {
+  background-color: lightgray;
+  border: solid 1px black;
+  /*font-family: 'Times New Roman',serif; */
+  }
+
+  footer
+  {
+    padding: 20px;
+    border-radius: 3px;
+  }
+  body{
+    padding: 5px;
+    font-family: Segoe UI, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: darkgreen;
+  }
+
+  html,body
+  {
+    margin: 0;
+    padding: 0;
+  }
+  .simpleform1
+  {
+    border: solid #444;
+    padding: 2px;
+    width: 600px;
+
+  }
+  .bordered-image{
+    border: solid #444;
+    border-radius: 2px;
+    width:970px;
+    height:300px;
+  }
+  .bordered-image2{
+    border: solid #444;
+    border-radius: 2px;
+    width:970px;
+    height:300px;
+  }
+  #results
+  {
+    padding: 2px;
+    width: 476px;
+    display: inline-block;
+    vertical-align: top;
+  }
+  #results2
+  {
+    padding: 2px;
+    width: 476px;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  /* .simple-form lablel
+  {
+    font-weight: bold;
+  } */
+#main
+ {
+   border: solid 1px #444;
+   border-radius: 5px;
+   color: #FF0000;
+   margin: 20px 0 20px 0;
+   padding: 5px
+ }
+
+#main label {
+  font-weight: bold;
+}
+
+#main label,
+#mainselect {
+  width: 150px;
+}
+
+#main input[type = submit]
+{
+  background-color: green;
+  color: white;
+  border-radius: 15px;
+  padding: 3px;
+  margin-top: 5px;
+}
+.bucket
+{
+  width: 989px;
+  margin: 0 auto;
+ background-color: white;
+ padding: 5px;
+}
